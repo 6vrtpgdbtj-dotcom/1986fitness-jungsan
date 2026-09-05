@@ -29,9 +29,37 @@ function selectTrainer(index) {
   const link = document.querySelector('#trainer-link');
   link.firstChild.textContent = `${tab.dataset.name} 트레이너 상담 `;
   const image = document.querySelector('#trainer-image');
-  image.alt = tab.dataset.image ? `${tab.dataset.name} 트레이너` : '';
-  image.src = tab.dataset.image || 'assets/images/jungsan-13.jpg';
-  image.style.opacity = tab.dataset.image ? '1' : '.16';
+  if (tab.dataset.image) {
+    image.src = tab.dataset.image;
+    image.alt = `${tab.dataset.name} 트레이너`;
+    image.style.opacity = '1';
+    const openButton = document.querySelector('#trainer-image-open');
+    if (openButton) openButton.setAttribute('aria-label', `${tab.dataset.name} 트레이너 사진 크게 보기`);
+  } else {
+    image.removeAttribute('src');
+    image.alt = '';
+    image.style.opacity = '0';
+  }
+}
+
+function initImageLightbox() {
+  const dialog = document.querySelector('#image-lightbox');
+  const output = document.querySelector('#lightbox-image');
+  if (!dialog || !output) return;
+
+  document.querySelectorAll('.image-open').forEach((button) => {
+    button.addEventListener('click', () => {
+      const source = button.querySelector('img');
+      if (!source?.src) return;
+      output.src = source.currentSrc || source.src;
+      output.alt = source.alt;
+      dialog.showModal();
+    });
+  });
+  dialog.querySelector('.lightbox-close')?.addEventListener('click', () => dialog.close());
+  dialog.addEventListener('click', (event) => {
+    if (event.target === dialog) dialog.close();
+  });
 }
 
 function initRevealObserver() {
@@ -107,5 +135,6 @@ document.addEventListener('DOMContentLoaded', () => {
   bindTabs('[data-gallery-target]', selectGalleryItem);
   bindTabs('[data-trainer]', selectTrainer);
   initRevealObserver();
+  initImageLightbox();
   loadNaverFeed();
 });

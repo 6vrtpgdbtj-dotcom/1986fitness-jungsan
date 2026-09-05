@@ -20,3 +20,10 @@ test('hotel-club visual system provides serif display type and cinematic media t
   assert.match(css, /\.club-letter/);
   assert.match(css, /@media \(max-width:720px\)/);
 });
+
+test('Korean display copy uses the sans family with readable line-height and safe wrapping', async () => {
+  const css = await readFile(new URL('../styles.css', import.meta.url), 'utf8');
+  assert.match(css, /\.korean-display[^}]*font-family:var\(--sans\)/);
+  assert.match(css, /\.korean-display[^}]*line-height:1\.1/);
+  assert.match(css, /\.korean-display[^}]*word-break:keep-all/);
+});

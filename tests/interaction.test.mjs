@@ -11,3 +11,11 @@ test('script exposes accessible gallery, trainer and reveal behaviors', async ()
   assert.ok(js.includes('loadNaverFeed'));
   assert.ok(js.includes('place-feed-status'));
 });
+
+test('script opens and closes the fullscreen image dialog', async () => {
+  const js = await readFile(new URL('../script.js', import.meta.url), 'utf8');
+  assert.match(js, /image-lightbox/);
+  assert.match(js, /showModal\(\)/);
+  assert.match(js, /\.close\(\)/);
+  assert.doesNotMatch(js, /assets\/images\//);
+});

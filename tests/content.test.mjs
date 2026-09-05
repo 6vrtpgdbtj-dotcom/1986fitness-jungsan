@@ -18,3 +18,10 @@ test('renders the hotel-club identity without third-party watermarked media', as
   assert.doesNotMatch(html, /assets\/images\/jungsan-/);
   assert.doesNotMatch(html, /da-gym|다짐/i);
 });
+
+test('offers an accessible fullscreen viewer for real facility photography', async () => {
+  const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
+  assert.match(html, /<dialog[^>]+id="image-lightbox"/);
+  assert.match(html, /class="image-open"/);
+  assert.match(html, /aria-label="[^\"]*크게 보기"/);
+});

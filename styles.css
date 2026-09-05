@@ -17,3 +17,34 @@ footer{padding:6rem 4vw 2rem;background:var(--paper);color:var(--ink);display:gr
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;animation-delay:0ms!important;transition-duration:.01ms!important}.hero-step,[data-reveal]{opacity:1;transform:none}.hero-ambient img{transform:none}}
 .hero h1 strong{font-weight:500}
 @media (max-width:720px){.hero h1{font-size:clamp(3.45rem,15vw,4.6rem);line-height:.82}.hero h1 strong{white-space:nowrap}}
+
+/* Korean display type: Pretendard keeps Hangul legible and prevents fallback-serif collisions. */
+.korean-display{font-family:var(--sans);font-style:normal;font-weight:650;line-height:1.1;letter-spacing:-.035em;word-break:keep-all;overflow-wrap:normal}
+.korean-display i,.korean-display em{font-style:normal;font-weight:650}
+.hero h1.korean-display{font-family:var(--sans);font-size:clamp(3.9rem,6.3vw,7rem);line-height:1.04;letter-spacing:-.055em;white-space:normal}
+.hero h1.korean-display span{display:block;font-family:var(--sans);font-size:.36em;font-weight:500;line-height:1.3;letter-spacing:-.025em;margin-bottom:1rem}
+.hero h1.korean-display strong{display:block;font-weight:700}
+.hero-lead span{display:block}
+.intro h2.korean-display,.section-heading h2.korean-display,.visit h2.korean-display{font-family:var(--sans);font-weight:650;line-height:1.08;letter-spacing:-.045em}
+.space-quote.korean-display,.members blockquote.korean-display{font-family:var(--sans);font-weight:650;line-height:1.15;letter-spacing:-.04em}
+.trainer-detail #trainer-name{font-family:var(--sans);font-weight:700;line-height:1.08;letter-spacing:-.04em}
+.trainer-visual>.image-open{position:absolute;inset:0;z-index:2}.trainer-visual>.image-open img{object-position:center top}.trainer-visual>.image-open:hover img{transform:scale(1.012)}
+
+.image-open{display:block;width:100%;height:100%;padding:0;border:0;background:transparent;cursor:zoom-in}
+.hero-ambient>.image-open,.space-portrait>.image-open{position:absolute;inset:0}
+.hero-ambient:after,.hero-ambient figcaption,.space-portrait figcaption{pointer-events:none}
+#image-lightbox{width:100vw;height:100dvh;max-width:none;max-height:none;margin:0;padding:clamp(1rem,4vw,3rem);border:0;background:rgba(5,6,5,.96);color:#fff;overflow:hidden}
+#image-lightbox::backdrop{background:rgba(0,0,0,.82)}
+#lightbox-image{display:block;width:100%;height:100%;object-fit:contain}
+.lightbox-close{position:fixed;z-index:2;top:clamp(1rem,3vw,2rem);right:clamp(1rem,3vw,2rem);padding:.72rem 1rem;border:1px solid rgba(255,255,255,.45);background:rgba(9,10,9,.76);color:#fff;font-size:.72rem;letter-spacing:.08em;cursor:pointer}
+
+@media (max-width:720px){
+  .hero h1.korean-display{font-size:clamp(2.65rem,11.4vw,3.8rem);line-height:1.08}
+  .hero h1.korean-display span{font-size:.42em;margin-bottom:.75rem}
+  .hero h1.korean-display strong{white-space:normal}
+  .hero-lead span+span{margin-top:.35rem}
+  .intro h2.korean-display,.section-heading h2.korean-display,.visit h2.korean-display{font-size:clamp(2.55rem,11.4vw,4rem);line-height:1.12}
+  .space-quote.korean-display{font-size:clamp(2.15rem,9.5vw,3.1rem);line-height:1.18}
+  .members blockquote.korean-display{font-size:clamp(2.55rem,11vw,4rem);line-height:1.17}
+  .trainer-detail #trainer-name{font-size:clamp(3.2rem,15vw,5rem)}
+}
