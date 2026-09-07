@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-07T10:29:23.681Z",
+  "syncedAt": "2026-09-07T23:25:55.613Z",
   "news": [
+    {
+      "title": "중산동 헬스장 | 레그컬, 왜 허벅지 뒤쪽 자극이 안 올까?",
+      "category": "하체 운동",
+      "summary": "레그컬, 왜 허벅지 뒤쪽 자극이 안 올까? 레그컬을 열심히 하는데 허벅지 뒤쪽보다 종아리만 당기거나 무게는 충분히 드는데 햄스트링에는 별다른 자극이 없다면 무엇이 문제일까요? 레그컬은 동작 자체는 단순해 보이지만 기구 세팅과 자세가 조금만 어긋나도 운동 느낌이 크게 달",
+      "date": "Tue, 08 Sep 2026 08:03:47 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224404392016?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "성석동 헬스장 l 12개월 월 2만원 혜택, 군인전용 이벤트까지",
       "category": "공지사항/이벤트",
       "summary": "운동은 시작해야겠는데 비용 때문에 망설이고 계셨나요? ✔ 장기간 꾸준히 다닐 곳을 찾는 분 ✔ 한 달 비용이 부담스러웠던 분 ✔ PT까지 함께 경험해 보고 싶은 분 ✔ 성석동 인근에서 운동할 곳을 찾는 분 현재 성석동 헬스장을 알아보는 분들이라면 1986피트니스의 가을",
       "date": "Mon, 07 Sep 2026 18:37:04 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224403925246?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "운동 후 근육통, 아플수록 운동이 잘된 걸까? 운동을 열심히 한 다음 날 침대에서 일어나는데 온몸이 뻐근했던 경험 있으신가요? 특히 오랜만에 하체운동을 하면 계단을 내려가는 것조차 힘들 때가 있습니다. 그러다 보니 자연스럽게 “근육통이 심해야 어제 운동을 제대로 한 거",
       "date": "Mon, 07 Sep 2026 08:24:23 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224403228872?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "“오늘은 진짜 운동하러 가야지!” 아침에는 분명 이렇게 다짐했는데, 퇴근 시간이 되면 생각이 달라집니다. 소파에 잠깐만 앉아 있으려다가 눈을 떠보니 밤 11시가 되죠. 직장인이 운동을 꾸준히 못 하는 건 의지가 부족해서가 아닐 수 있습니다. 이미 회사에서 집중력을 소모",
       "date": "Sun, 06 Sep 2026 10:35:01 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224402452671?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 ㅣ 몸무게가 안 줄어도 다이어트가 잘되고 있다는 증거",
-      "category": "건강/운동 TIP",
-      "summary": "체중은 그대로인데 몸이 달라지는 이유 “분명 운동하는데 왜 몸무게는 그대로지?” 이 고민, 회원님들 거의 한 번씩은 합니다. 근데 여기서 포기하면 진짜 아까운 구간입니다. 왜냐하면 지금이 몸이 바뀌는 ‘진짜 시작 단계’거든요. 오늘은 체중은 그대로인데 몸이 변하는 이유",
-      "date": "Sun, 06 Sep 2026 10:34:37 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224402452419?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224402452671?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
