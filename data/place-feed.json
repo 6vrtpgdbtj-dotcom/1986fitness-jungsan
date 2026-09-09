@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-09T00:38:51.073Z",
+  "syncedAt": "2026-09-09T23:26:17.558Z",
   "news": [
+    {
+      "title": "중산동 | 코어운동, 복근운동과 뭐가 다를까?",
+      "category": "상체 운동",
+      "summary": "코어운동, 복근운동과 뭐가 다를까? 헬스장에서 운동하다 보면 “코어에 힘주세요!”라는 말을 자주 들어보셨을 겁니다. 그런데 여기서 궁금한 점이 생깁니다. “코어가 그냥 복근 아닌가요?” 둘 다 배 주변을 사용하는 것 같지만 코어운동과 복근운동은 조금 다르게 이해할 필요",
+      "date": "Thu, 10 Sep 2026 08:09:30 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224406744309?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 | 하이로우, 어디로 당겨야 할까?",
       "category": "상체 운동",
       "summary": "하이로우, 어디로 당겨야 할까? 등 운동을 위해 하이로우 머신을 열심히 당기는데 정작 등보다 팔이나 어깨만 먼저 힘들었던 경험, 한 번쯤 있으신가요? 분명 등 운동 기구인데 왜 원하는 부위에 자극이 오지 않을까요? 하이로우는 단순히 손잡이를 몸 쪽으로 당기는 운동이 아",
       "date": "Wed, 09 Sep 2026 08:22:55 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224405585057?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "하체 운동",
       "summary": "레그컬, 왜 허벅지 뒤쪽 자극이 안 올까? 레그컬을 열심히 하는데 허벅지 뒤쪽보다 종아리만 당기거나 무게는 충분히 드는데 햄스트링에는 별다른 자극이 없다면 무엇이 문제일까요? 레그컬은 동작 자체는 단순해 보이지만 기구 세팅과 자세가 조금만 어긋나도 운동 느낌이 크게 달",
       "date": "Tue, 08 Sep 2026 08:03:47 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224404392016?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "공지사항/이벤트",
       "summary": "운동은 시작해야겠는데 비용 때문에 망설이고 계셨나요? ✔ 장기간 꾸준히 다닐 곳을 찾는 분 ✔ 한 달 비용이 부담스러웠던 분 ✔ PT까지 함께 경험해 보고 싶은 분 ✔ 성석동 인근에서 운동할 곳을 찾는 분 현재 성석동 헬스장을 알아보는 분들이라면 1986피트니스의 가을",
       "date": "Mon, 07 Sep 2026 18:37:04 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224403925246?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 | 운동 후 근육통, 아플수록 운동이 잘된 걸까?",
-      "category": "건강/운동 TIP",
-      "summary": "운동 후 근육통, 아플수록 운동이 잘된 걸까? 운동을 열심히 한 다음 날 침대에서 일어나는데 온몸이 뻐근했던 경험 있으신가요? 특히 오랜만에 하체운동을 하면 계단을 내려가는 것조차 힘들 때가 있습니다. 그러다 보니 자연스럽게 “근육통이 심해야 어제 운동을 제대로 한 거",
-      "date": "Mon, 07 Sep 2026 08:24:23 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224403228872?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224403925246?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
