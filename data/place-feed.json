@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-12T07:25:40.135Z",
+  "syncedAt": "2026-09-13T23:25:42.795Z",
   "news": [
+    {
+      "title": "중산동 헬스장 | 오십견, 아파도 운동해야 할까?",
+      "category": "건강/운동 TIP",
+      "summary": "오십견, 아파도 운동해야 할까? 어깨가 아파서 팔을 올리기 어렵고 옷을 입거나 머리를 감는 동작까지 불편해진 적 있으신가요? 특히 중년 이후 이런 증상이 나타나면 가장 먼저 “혹시 오십견인가?”라고 생각하는 경우가 많습니다. 그렇다면 오십견은 아파도 계속 움직여야 할까",
+      "date": "Mon, 14 Sep 2026 07:57:06 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224410794252?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장ㅣ두꺼운 허벅지에서 끝내지 마세요, 대퇴사두근 갈라지는 운동법",
       "category": "건강/운동 TIP",
       "summary": "하체 운동을 꾸준히 하고 있는데 이런 고민을 해보신 적 있으신가요? “왜 내 허벅지는 근육이 커지기만 하고 선명한 라인은 안 보일까?” 특히 운동을 열심히 하는 분들이라면 대퇴사두근이 선명하게 갈라지는 허벅지를 한 번쯤 목표로 해보셨을 텐데요. 대퇴사두근의 선명한 라인",
       "date": "Sat, 12 Sep 2026 15:38:48 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224409383551?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "헬스를 오래 하다 보면 한 번쯤 이런 생각이 듭니다. “저 몸이 정말 내추럴로 가능할까?” 넓은 어깨와 두꺼운 등, 꽉 찬 팔, 선명한 복근. 체지방은 낮은데 근육량은 엄청나고, 몇 년 동안 운동한 사람도 쉽게 만들기 힘든 몸을 SNS에서는 어렵지 않게 볼 수 있죠 그",
       "date": "Sat, 12 Sep 2026 15:38:20 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224409383209?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "아침에는 얼굴이 붓고, 저녁에는 양말 자국이 선명하게 남는 날이 종종 있으시죠? 전날 야식을 먹거나 오래 앉아 있었을 때는 체중까지 늘어나서 “이 붓기가 그대로 살이 되는 건 아닐까?” 걱정되기도 합니다. 결론부터 말하면 부종 자체가 지방으로 변하는 것은 아닙니다. 그",
       "date": "Sat, 12 Sep 2026 10:23:45 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224409145703?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 | 힙어덕션, 왜 허벅지 안쪽 자극이 안 올까?",
-      "category": "하체 운동",
-      "summary": "힙어덕션, 왜 허벅지 안쪽 자극이 안 올까? 힙어덕션을 열심히 하는데 정작 허벅지 안쪽보다 무릎이나 다른 부위만 힘들었던 경험 있으신가요? 분명 다리를 모으는 운동인데 왜 내전근 자극은 잘 느껴지지 않을까요? 힙어덕션은 동작이 단순해 보여도 기구 세팅, 골반 위치, 중",
-      "date": "Fri, 11 Sep 2026 08:36:26 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224407928299?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224409145703?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
