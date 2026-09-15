@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-14T23:25:29.021Z",
+  "syncedAt": "2026-09-15T08:32:11.800Z",
   "news": [
+    {
+      "title": "일산헬스장 I 다이어트 식단 싫은 사람도 오래 먹는 저당 소스 조합",
+      "category": "건강/운동 TIP",
+      "summary": "운동을 시작하면 제일 먼저 바꾸려고 하는 게 먹는 거죠. 그런데 평소 풀을 싫어하던 사람이 갑자기 한 끼를 전부 생채소와 닭가슴살로 바꾸면 어떨까요? 처음 이틀 정도는 참을 만해도 며칠 지나면 벌써 질리기 시작합니다. (이건 제 경험담이에요...) 저 역시 다이어트 식",
+      "date": "Tue, 15 Sep 2026 16:56:18 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224412664422?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 | 허벅지 운동 기구, 어떤 순서로 사용해야 효과적일까?",
       "category": "하체 운동",
       "summary": "허벅지 운동 기구, 어떤 순서로 사용해야 효과적일까? 헬스장에 가면 하체 운동 기구가 정말 많습니다. 레그프레스, 레그익스텐션, 레그컬, 힙어덕션까지. 그런데 막상 운동을 시작하려고 하면 이런 고민이 생기죠. “허벅지를 운동하려면 어떤 기구부터 해야 하지?” 오늘은 허",
       "date": "Tue, 15 Sep 2026 08:09:07 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224412064837?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "오십견, 아파도 운동해야 할까? 어깨가 아파서 팔을 올리기 어렵고 옷을 입거나 머리를 감는 동작까지 불편해진 적 있으신가요? 특히 중년 이후 이런 증상이 나타나면 가장 먼저 “혹시 오십견인가?”라고 생각하는 경우가 많습니다. 그렇다면 오십견은 아파도 계속 움직여야 할까",
       "date": "Mon, 14 Sep 2026 07:57:06 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224410794252?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "하체 운동을 꾸준히 하고 있는데 이런 고민을 해보신 적 있으신가요? “왜 내 허벅지는 근육이 커지기만 하고 선명한 라인은 안 보일까?” 특히 운동을 열심히 하는 분들이라면 대퇴사두근이 선명하게 갈라지는 허벅지를 한 번쯤 목표로 해보셨을 텐데요. 대퇴사두근의 선명한 라인",
       "date": "Sat, 12 Sep 2026 15:38:48 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224409383551?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ내추럴로는 절대 못 만드는 몸이 있을까?스테로이드와 도핑의 현실",
-      "category": "건강/운동 TIP",
-      "summary": "헬스를 오래 하다 보면 한 번쯤 이런 생각이 듭니다. “저 몸이 정말 내추럴로 가능할까?” 넓은 어깨와 두꺼운 등, 꽉 찬 팔, 선명한 복근. 체지방은 낮은데 근육량은 엄청나고, 몇 년 동안 운동한 사람도 쉽게 만들기 힘든 몸을 SNS에서는 어렵지 않게 볼 수 있죠 그",
-      "date": "Sat, 12 Sep 2026 15:38:20 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224409383209?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224409383551?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
