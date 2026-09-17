@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-17T00:34:05.111Z",
+  "syncedAt": "2026-09-17T23:33:55.759Z",
   "news": [
+    {
+      "title": "중산동 헬스장 | 체지방률 박살 내고 싶다면?",
+      "category": "건강/운동 TIP",
+      "summary": "체지방률 박살 내고 싶다면? “이번에는 진짜 체지방 좀 확 빼야겠다!” 다이어트를 시작하면 가장 먼저 러닝머신부터 찾는 분들이 많습니다. 땀을 많이 흘리고 오래 뛰면 체지방도 그만큼 빠르게 줄어들 것 같기 때문이죠. 그런데 매일 유산소를 하는데도 거울 속 몸은 생각보다",
+      "date": "Fri, 18 Sep 2026 07:37:26 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224415627072?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 | 엉덩이 운동하는데 왜 허벅지만 굵어질까?",
       "category": "하체 운동",
       "summary": "엉덩이 운동하는데 왜 허벅지만 굵어질까? 힙업을 위해 스쿼트도 하고, 런지도 하고, 레그프레스도 열심히 하는데 거울을 보면 엉덩이보다 허벅지가 먼저 발달하는 것 같은 느낌. “나는 엉덩이 운동이 안 맞는 걸까?” “계속하면 허벅지만 더 굵어지는 거 아닐까?” 이런 고민",
       "date": "Thu, 17 Sep 2026 07:46:17 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224414479315?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "당뇨, 운동하면 혈당 관리에 도움이 될까? 건강검진을 받고 나서 “혈당이 조금 높게 나왔어요.”라는 말을 들으면 갑자기 걱정이 시작됩니다. 단것만 안 먹으면 되는 걸까요? 밥을 줄여야 할까요? 아니면 운동부터 시작해야 할까요? 당뇨병은 단순히 설탕을 많이 먹어서 생기는",
       "date": "Wed, 16 Sep 2026 08:04:45 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224413297172?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "공지사항/이벤트",
       "summary": "운동을 다시 시작하려고 마음먹었는데 추석 연휴가 끼어 있어 시작 시점을 고민하는 분들이 많으실 텐데요. “연휴 끝나고 등록할까?” “지금 시작해도 제대로 다닐 수 있을까?” 이런 생각이 자연스럽게 들 수 있습니다. 그런데 이번 9월은 조금 다릅니다. 중산동 헬스장을 알",
       "date": "Tue, 15 Sep 2026 19:18:17 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224412814905?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "일산헬스장 I 다이어트 식단 싫은 사람도 오래 먹는 저당 소스 조합",
-      "category": "건강/운동 TIP",
-      "summary": "운동을 시작하면 제일 먼저 바꾸려고 하는 게 먹는 거죠. 그런데 평소 풀을 싫어하던 사람이 갑자기 한 끼를 전부 생채소와 닭가슴살로 바꾸면 어떨까요? 처음 이틀 정도는 참을 만해도 며칠 지나면 벌써 질리기 시작합니다. (이건 제 경험담이에요...) 저 역시 다이어트 식",
-      "date": "Tue, 15 Sep 2026 16:56:18 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224412664422?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224412814905?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
