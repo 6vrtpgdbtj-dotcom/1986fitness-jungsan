@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-22T04:59:54.529Z",
+  "syncedAt": "2026-09-22T09:59:28.667Z",
   "news": [
+    {
+      "title": "중산동 헬스장 추천 I 추석 연휴에도 쉬지 않고 운동할 곳 찾는다면?",
+      "category": "공지사항/이벤트",
+      "summary": "추석 연휴가 길어지면 은근히 고민되는 게 하나 있죠. 평소 꾸준히 운동하던 분들은 며칠만 쉬어도 몸이 찌뿌둥하고, 고향이나 가족 집에 내려왔다가 운동할 곳을 새로 찾기도 합니다. 특히 이번 추석에 고양시 중산동으로 멀리 방문하신 분들이라면, “연휴에도 문 여는 곳 없을",
+      "date": "Tue, 22 Sep 2026 18:43:23 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224420125428?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 | 일어날 때 눈앞이 깜깜해진다면, 빈혈 때문일까?",
       "category": "건강/운동 TIP",
       "summary": "일어날 때 눈앞이 깜깜해진다면, 그냥 빈혈 때문일까? 오랫동안 앉아 있다가 갑자기 자리에서 일어났는데 순간적으로 머리가 핑 돌고 눈앞이 깜깜해진 경험 있으신가요? 이럴 때 많은 분들이 “나 빈혈인가?”라고 생각합니다. 하지만 특히 자세를 바꿀 때 어지럼증이 나타난다면 ",
       "date": "Tue, 22 Sep 2026 08:47:40 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224419458537?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "운동하는 사람들이 점심으로 일주일 내내 찾아간 곳. 조금 궁금하지 않으신가요? 요즘 저희 1986피트니스 실장과 트레이너들이 제대로 빠진 점심 메뉴가 하나 있습니다. 바로 만두입니다. 그것도 한두 번 먹고 끝난 게 아니라 거의 일주일 연속으로 찾아가고 있는 저희 직원들",
       "date": "Mon, 21 Sep 2026 18:48:02 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224418989623?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "는데 왜 전신운동 이라고 할까? ⛰️ 등산을 운동이라고 하면 가장 먼저 떠오르는 건 역시 하체입니다. “계속 걷는 운동인데 결국 다리 운동 아닌가요?” 하지만 실제 산길에서는 평지를 걸을 때보다 훨씬 다양한 근육을 사용하게 됩니다. 오르막과 내리막을 반복하고 울퉁불퉁한",
       "date": "Mon, 21 Sep 2026 07:25:11 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224418284618?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 ㅣ 운동할 때 인상 쓰면 진짜 주름 생길까?",
-      "category": "건강/운동 TIP",
-      "summary": "운동하다 보면 거울 속 얼굴이 유독 낯설 때가 있지 않으신가요? 눈썹은 잔뜩 모이고 이마에는 힘이 들어가고 어금니는 꽉 깨문 채 마지막 횟수를 버팁니다. “운동할 때 인상 쓰면 주름 생겨요!” 한 번쯤은 이런 말을 들어보셨을 텐데요. 그렇다면 정말 표정을 찌푸리면 주름",
-      "date": "Sun, 20 Sep 2026 09:19:09 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224417528556?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224418284618?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
