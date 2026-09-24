@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-23T00:36:33.322Z",
+  "syncedAt": "2026-09-24T04:55:03.756Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 가을 환절기 관리, 꼭 챙겨야 할 생활습관",
+      "category": "건강/운동 TIP",
+      "summary": "추석 연휴가 지나고 나면 아침저녁 공기가 확실히 달라집니다. 낮에는 아직 조금 덥지만 해가 지고 나면 제법 선선하죠. 이럴 때 은근히 자주 나오는 말이 있습니다. “왜 이렇게 목이 칼칼하지?” “아침에 일어나니까 몸이 무겁네.” “요즘 피부가 갑자기 건조해진 것 같아.",
+      "date": "Thu, 24 Sep 2026 09:37:05 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224421604241?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 명절마다 2kg 늘어난다면 식사법부터 바꾸세요",
       "category": "건강/운동 TIP",
       "summary": "추석이 다가오면 다이어트 중인 분들은 괜히 마음부터 불안해집니다. 평소에는 식단을 잘 지키다가도 명절만 되면 전, 갈비, 잡채처럼 맛있는 음식이 한꺼번에 나오기 때문이죠. “며칠 정도는 괜찮겠지” 하다가 연휴가 끝난 뒤 체중계를 보고 당황하는 경우도 많습니다. 하지만 ",
       "date": "Wed, 23 Sep 2026 07:47:50 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224420541324?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "공지사항/이벤트",
       "summary": "추석 연휴가 길어지면 은근히 고민되는 게 하나 있죠. 평소 꾸준히 운동하던 분들은 며칠만 쉬어도 몸이 찌뿌둥하고, 고향이나 가족 집에 내려왔다가 운동할 곳을 새로 찾기도 합니다. 특히 이번 추석에 고양시 중산동으로 멀리 방문하신 분들이라면, “연휴에도 문 여는 곳 없을",
       "date": "Tue, 22 Sep 2026 18:43:23 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224420125428?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "일어날 때 눈앞이 깜깜해진다면, 그냥 빈혈 때문일까? 오랫동안 앉아 있다가 갑자기 자리에서 일어났는데 순간적으로 머리가 핑 돌고 눈앞이 깜깜해진 경험 있으신가요? 이럴 때 많은 분들이 “나 빈혈인가?”라고 생각합니다. 하지만 특히 자세를 바꿀 때 어지럼증이 나타난다면 ",
       "date": "Tue, 22 Sep 2026 08:47:40 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224419458537?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 근처 만두 맛집 만두모아, 트레이너도 일주일 연속 찾은 내돈내산 맛집",
-      "category": "건강/운동 TIP",
-      "summary": "운동하는 사람들이 점심으로 일주일 내내 찾아간 곳. 조금 궁금하지 않으신가요? 요즘 저희 1986피트니스 실장과 트레이너들이 제대로 빠진 점심 메뉴가 하나 있습니다. 바로 만두입니다. 그것도 한두 번 먹고 끝난 게 아니라 거의 일주일 연속으로 찾아가고 있는 저희 직원들",
-      "date": "Mon, 21 Sep 2026 18:48:02 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224418989623?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224419458537?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
