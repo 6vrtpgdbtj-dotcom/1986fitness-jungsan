@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-27T01:29:25.803Z",
+  "syncedAt": "2026-09-28T06:57:14.986Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 운동을 3개월 꾸준히 하면 몸에 어떤 변화가 생길까?",
+      "category": "1986피트니스",
+      "summary": "운동을 시작하면 한 번쯤 이런 생각이 듭니다. “도대체 얼마나 해야 몸이 달라지는 걸까?” 일주일 운동했는데 체중은 그대로. 한 달 다녔는데 거울을 봐도 큰 차이가 없고. 이럴 때 가장 쉽게 포기하게 됩니다. 하지만 몸의 변화는 생각보다 천천히 시작됩니다. 운동을 3개",
+      "date": "Mon, 28 Sep 2026 11:36:34 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224424604700?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 ㅣ 팝콘은 정말 살찌는 음식일까?",
       "category": "건강/운동 TIP",
       "summary": "영화를 볼 때마다 우리의 의지를 시험하는 음식이 있죠. 바로 고소한 냄새로 유혹하는 팝콘입니다. “다이어트 중인데 한 통 먹으면 망하겠지?” 그런데 의외로 조리법만 잘 고르면 체중 관리 중에도 괜찮은 간식이 됩니다. 다이어트 중 팝콘 섭취 방법을 쉽게 알려드릴게요. 곡",
       "date": "Sun, 27 Sep 2026 09:41:29 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224423643386?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "“저는 허벅지 안쪽이 정리됐으면 좋겠어요.” “힙 옆쪽이 꺼져 보여서 바지를 입으면 아쉬워요.” “종아리가 두꺼워질까 봐 하체 운동이 무서워요.” 상담을 하다 보면 원하는 다리 모양은 정말 제각각입니다. 그런데 운동은 모두 똑같이 스쿼트만 반복하는 경우가 많죠. 다리 ",
       "date": "Sun, 27 Sep 2026 09:40:22 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224423642775?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "안녕하세요. 1986피트니스 중산점입니다 헬스를 시작하면 처음에는 비교적 빠르게 근력이 늘고 몸의 변화도 느껴집니다. 그런데 어느 순간부터 “운동을 꾸준히 하는데 왜 몸이 그대로지?” “예전에는 근육통도 잘 왔는데 요즘은 별로 안 오네?” 라는 생각이 들 수 있습니다.",
       "date": "Sat, 26 Sep 2026 17:16:37 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224423207138?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ살 빠지는 과정에서 나타나는 의외의 신호 7가지",
-      "category": "건강/운동 TIP",
-      "summary": "다이어트를 시작하면 가장 먼저 확인하게 되는 것이 바로 체중입니다. 아침에 일어나 화장실을 다녀온 후 체중계에 올라가서 숫자를 확인하고, 어제보다 0.5kg이라도 줄어 있으면 괜히 기분이 좋아집니다. 반대로 열심히 운동하고 식단까지 관리했는데 체중이 그대로라면 이런 생",
-      "date": "Sat, 26 Sep 2026 17:16:15 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224423206917?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224423207138?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
