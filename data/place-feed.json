@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-09-30T00:29:30.945Z",
+  "syncedAt": "2026-09-30T06:45:31.718Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 늦은 운동 후 식사, 이렇게 챙겨보세요",
+      "category": "건강/운동 TIP",
+      "summary": "열심히 몸을 움직이고 집에 왔는데, 씻고 나니 갑자기 배가 고픈 날이 있죠. “이 시간에 먹으면 오늘 한 게 소용없나?” 이런 걱정 때문에 무작정 참기도 합니다. 하지만 야식 습관을 무조건 체중 증가나 성과 저하의 원인으로 단정하기는 어렵습니다. (ˊ•͈ ꇴ •͈ˋ) ",
+      "date": "Wed, 30 Sep 2026 09:48:35 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224426756733?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 운동 후 다음 날 근육통 있을 때 해도 될까?",
       "category": "건강/운동 TIP",
       "summary": "쉬어야 하는 기준 정리 열심히 운동하고 다음 날 일어났는데 몸 여기저기가 뻐근했던 경험, 한 번쯤 있으실 겁니다. 특히 오랜만에 했거나 평소보다 강도를 높인 날에는 계단 내려가는 것도 힘들 때가 있죠. 이럴 때 가장 고민되는 게 있습니다. “오늘도 헬스장 가야 할까?”",
       "date": "Tue, 29 Sep 2026 09:35:58 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224425599645?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "공지사항/이벤트",
       "summary": "운동을 시작해야겠다고 마음먹어도 막상 어디서 배워야 할지 고민되죠. 혼자 기구를 쓰는 게 어렵고 다이어트 방향을 모르겠고 자세가 맞는지 불안하고 등록해도 꾸준히 갈지 걱정된다면 처음부터 체계적으로 배우는 방법을 고려해볼 만합니다. 저도 중산동 PT를 알아볼 때 단순히 ",
       "date": "Mon, 28 Sep 2026 21:14:26 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224425197480?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "운동을 시작하면 한 번쯤 이런 생각이 듭니다. “도대체 얼마나 해야 몸이 달라지는 걸까?” 일주일 했는데 체중은 그대로. 한 달 다녔는데 거울을 봐도 큰 차이가 없고. 이럴 때 가장 쉽게 포기하게 됩니다. 하지만 몸의 변화는 생각보다 천천히 시작됩니다. 운동을 3개월 ",
       "date": "Mon, 28 Sep 2026 11:36:34 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224424604700?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 ㅣ 팝콘은 정말 살찌는 음식일까?",
-      "category": "건강/운동 TIP",
-      "summary": "영화를 볼 때마다 우리의 의지를 시험하는 음식이 있죠. 바로 고소한 냄새로 유혹하는 팝콘입니다. “다이어트 중인데 한 통 먹으면 망하겠지?” 그런데 의외로 조리법만 잘 고르면 체중 관리 중에도 괜찮은 간식이 됩니다. 다이어트 중 팝콘 섭취 방법을 쉽게 알려드릴게요. 곡",
-      "date": "Sun, 27 Sep 2026 09:41:29 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224423643386?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224424604700?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
