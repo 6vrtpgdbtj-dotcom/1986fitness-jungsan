@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-01T05:59:06.394Z",
+  "syncedAt": "2026-10-02T05:41:26.418Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 하루 만 보 걷기 vs 헬스 1시간, 다이어트에는 뭐가 더 현실적일까?",
+      "category": "건강/운동 TIP",
+      "summary": "다이어트를 시작하면 한 번쯤 이런 고민을 하게 됩니다. “굳이 센터까지 가야 하나?” “하루에 만 보만 걸어도 살 빠진다던데?” 실제로 요즘에는 스마트워치나 휴대폰으로 걸음 수를 확인하면서 하루 만 보를 목표로 잡는 분들이 많습니다. 반대로 퇴근 후 헬스장에 들러 근력",
+      "date": "Fri, 02 Oct 2026 12:26:36 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224429271778?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 가을철 운동할 때 무릎·허리가 더 뻣뻣한 이유와 예방법",
       "category": "건강/운동 TIP",
       "summary": "아침저녁 공기가 확실히 달라졌습니다. 헬스장에 들어갈 때만 해도 몸이 살짝 굳어 있는 느낌이 들고, 스쿼트 첫 세트에서는 무릎이 평소보다 뻣뻣하게 느껴지기도 합니다. 허리를 숙이거나 데드리프트 자세를 잡을 때도 “오늘은 왜 이렇게 몸이 안 풀리지?” 싶은 날이 많아지는",
       "date": "Thu, 01 Oct 2026 11:58:52 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224428094481?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "열심히 몸을 움직이고 집에 왔는데, 씻고 나니 갑자기 배가 고픈 날이 있죠. “이 시간에 먹으면 오늘 한 게 소용없나?” 이런 걱정 때문에 무작정 참기도 합니다. 하지만 야식 습관을 무조건 체중 증가나 성과 저하의 원인으로 단정하기는 어렵습니다. (ˊ•͈ ꇴ •͈ˋ) ",
       "date": "Wed, 30 Sep 2026 09:48:35 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224426756733?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "쉬어야 하는 기준 정리 열심히 운동하고 다음 날 일어났는데 몸 여기저기가 뻐근했던 경험, 한 번쯤 있으실 겁니다. 특히 오랜만에 했거나 평소보다 강도를 높인 날에는 계단 내려가는 것도 힘들 때가 있죠. 이럴 때 가장 고민되는 게 있습니다. “오늘도 헬스장 가야 할까?”",
       "date": "Tue, 29 Sep 2026 09:35:58 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224425599645?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 PT I 1986피트니스 중산점 한 달 후기, 등록 혜택까지",
-      "category": "공지사항/이벤트",
-      "summary": "운동을 시작해야겠다고 마음먹어도 막상 어디서 배워야 할지 고민되죠. 혼자 기구를 쓰는 게 어렵고 다이어트 방향을 모르겠고 자세가 맞는지 불안하고 등록해도 꾸준히 갈지 걱정된다면 처음부터 체계적으로 배우는 방법을 고려해볼 만합니다. 저도 중산동 PT를 알아볼 때 단순히 ",
-      "date": "Mon, 28 Sep 2026 21:14:26 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224425197480?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224425599645?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
