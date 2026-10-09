@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-08T09:00:54.158Z",
+  "syncedAt": "2026-10-09T02:12:11.138Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 편의점 다이어트 식단 가능할까? 현실적인 음식 조합과 선택 꿀팁",
+      "category": "건강/운동 TIP",
+      "summary": "다이어트를 시작하면 가장 먼저 고민되는 것이 바로 식단이죠. 운동도 중요하지만 매일 무엇을 먹어야 할지 결정하는 일이 생각보다 쉽지 않습니다. 특히 출퇴근으로 바쁜 직장인이나 혼자 생활하는 자취생이라면 매번 건강한 음식을 준비하기가 부담스러울 수밖에 없는데요. 그렇다고",
+      "date": "Fri, 09 Oct 2026 09:35:38 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224436015692?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산 헬스장 I 햄스트링이 짧으면 생기는 문제와 유연성 높이는 운동 방법",
       "category": "하체 운동",
       "summary": "평소 허벅지 뒤쪽이 뻣뻣하거나 상체를 앞으로 숙일 때 유독 당기는 느낌이 있으신가요? 운동할 때뿐만 아니라 양말을 신거나 바닥에 떨어진 물건을 줍는 동작에서도 불편함을 느끼는 분들이 있습니다. 이런 경우 확인해 볼 부위가 바로 허벅지 뒤쪽에 위치한 햄스트링 근육입니다.",
       "date": "Thu, 08 Oct 2026 15:38:17 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224435319627?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "운동을 시작하기 전에는 헬스장에 가는 길이 제일 멀게 느껴집니다. 옷을 갈아입는 것도 귀찮고, 오늘 하루쯤 쉬어도 되지 않을까 하는 생각이 먼저 들 때도 많죠. 특히 하루 종일 일하고 난 뒤에는 소파에 누워 쉬고 싶은 마음이 훨씬 크게 느껴집니다. 저도 그런 날이 있습",
       "date": "Thu, 08 Oct 2026 10:08:59 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224434945903?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "운동을 시작하다 보면 생각보다 신경 쓰이는 순간이 있습니다. 스쿼트를 하거나 계단을 오를 때 관절에서 ‘뚝’, ‘딱’, ‘사각’ 같은 소리가 들리는 경우인데요. 처음에는 대수롭지 않게 넘기다가도 횟수가 반복되면 걱정이 생깁니다. “혹시 연골에 문제가 있는 건 아닐까?”",
       "date": "Wed, 07 Oct 2026 09:45:57 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224433802097?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ운동을 열심히 해도 몸이 안 변하는 사람들의 공통점",
-      "category": "건강/운동 TIP",
-      "summary": "운동을 시작한 지 꽤 됐는데 거울을 보면 그대로인 것 같고, 체중도 생각만큼 줄지 않으면 슬슬 이런 생각이 들기 시작합니다. “내가 잘못하고 있나?” 분명 헬스장에는 꾸준히 나가는데 눈에 보이는 변화가 없다면 답답하죠. 하지만 몸을 바꾸는 과정에서는 단순히 많이 움직이",
-      "date": "Tue, 06 Oct 2026 12:47:20 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224432847134?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224433802097?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
