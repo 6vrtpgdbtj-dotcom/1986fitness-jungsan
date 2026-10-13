@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-12T07:23:43.929Z",
+  "syncedAt": "2026-10-13T00:43:25.229Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 추워지면 살이 더 잘 빠질까? 겨울 다이어트의 진실",
+      "category": "건강/운동 TIP",
+      "summary": "날씨가 쌀쌀해지기 시작하면 운동을 나가기 전부터 고민이 생깁니다. 두꺼운 옷을 챙겨야 하고 이불 밖으로 나오는 것도 쉽지 않죠. 그런데 한편으로는 이런 이야기를 들어보신 적 있으실 겁니다. “추울 때 몸이 열을 내니까 살도 더 쉽게 빠지는 거 아니야?” 실제로 추워지면",
+      "date": "Tue, 13 Oct 2026 09:38:14 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224439911536?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 근력운동 후 잠이 안 오는 이유와 해결 방법",
       "category": "건강/운동 TIP",
       "summary": "운동을 열심히 하고 집에 돌아왔는데 이상하게 잠이 오지 않았던 경험, 한 번쯤 있으신가요? 분명 몸은 피곤한 상태인데 막상 침대에 누우면 정신이 또렷하고 쉽게 잠들지 못하는 경우가 있습니다. 특히 직장인들은 퇴근 이후 헬스장을 방문하는 일이 많아 이러한 상황을 겪기도 ",
       "date": "Mon, 12 Oct 2026 09:45:54 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224438710710?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "“근육을 빨리 키우려면 매일 운동해야 하지 않을까요?” 헬스를 처음 시작하면 이런 생각을 하기 쉽습니다. 월요일 운동하고, 화요일도 운동하고, 수요일에는 더 세게 하고… 왠지 하루라도 쉬면 그동안 만든 근육이 사라질 것 같은 느낌이죠. 그런데 재미있는 사실이 있습니다.",
       "date": "Sat, 10 Oct 2026 10:45:28 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224436943673?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에서 데드리프트를 처음 배우면 흔히 이런 말을 듣습니다. “허리로 들지 말고 엉덩이로 들어!” 그런데 여기서 한 가지 의문이 생깁니다. 데드리프트는 분명 허리도 사용하는 운동인데, 왜 엉덩이를 강조하는 걸까? 정확히 말하면 데드리프트는 허리로 무게를 들어 올리는 ",
       "date": "Sat, 10 Oct 2026 10:44:58 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224436943299?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 I 편의점 다이어트 식단 가능할까? 현실적인 음식 조합과 선택 꿀팁",
-      "category": "건강/운동 TIP",
-      "summary": "다이어트를 시작하면 가장 먼저 고민되는 것이 바로 식단이죠. 운동도 중요하지만 매일 무엇을 먹어야 할지 결정하는 일이 생각보다 쉽지 않습니다. 특히 출퇴근으로 바쁜 직장인이나 혼자 생활하는 자취생이라면 매번 건강한 음식을 준비하기가 부담스러울 수밖에 없는데요. 그렇다고",
-      "date": "Fri, 09 Oct 2026 09:35:38 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224436015692?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224436943299?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
