@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-14T01:14:34.438Z",
+  "syncedAt": "2026-10-14T11:56:57.340Z",
   "news": [
+    {
+      "title": "중산동 헬스장 ㅣ힙힌지란? 허리 대신 엉덩이를 쓰는 방법",
+      "category": "하체 운동",
+      "summary": "운동할 때 이런 말을 자주 듣습니다. “엉덩이를 뒤로 보내세요.” “허리가 아니라 고관절을 접으세요.” 하지만 처음 웨이트를 배우면 이 말이 쉽게 와닿지 않습니다. 상체를 숙였는데 허리만 불편하거나, 엉덩이를 뒤로 보낸다고 했는데 스쿼트처럼 앉아버리기도 하죠. 힙힌지는",
+      "date": "Wed, 14 Oct 2026 19:16:56 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224441719376?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장  I 커피 하루 몇 잔까지 마셔도 괜찮을까? 적정 섭취량과 주의사항",
       "category": "건강/운동 TIP",
       "summary": "아침에 눈을 뜨자마자 한 잔, 점심 식사 후 졸음을 쫓기 위해 한 잔! 바쁜 일상을 보내다 보면 어느새 두세 잔을 마시는 날도 있죠. 특히 직장인이나 학생들에게 아메리카노는 일상에서 빼놓기 어려운 음료가 되었습니다. 그런데 문득 이런 생각이 들지 않나요? \"이렇게 매일",
       "date": "Wed, 14 Oct 2026 09:00:13 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224441064775?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "날씨가 쌀쌀해지기 시작하면 운동을 나가기 전부터 고민이 생깁니다. 두꺼운 옷을 챙겨야 하고 이불 밖으로 나오는 것도 쉽지 않죠. 그런데 한편으로는 이런 이야기를 들어보신 적 있으실 겁니다. “추울 때 몸이 열을 내니까 살도 더 쉽게 빠지는 거 아니야?” 실제로 추워지면",
       "date": "Tue, 13 Oct 2026 09:38:14 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224439911536?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "운동을 열심히 하고 집에 돌아왔는데 이상하게 잠이 오지 않았던 경험, 한 번쯤 있으신가요? 분명 몸은 피곤한 상태인데 막상 침대에 누우면 정신이 또렷하고 쉽게 잠들지 못하는 경우가 있습니다. 특히 직장인들은 퇴근 이후 헬스장을 방문하는 일이 많아 이러한 상황을 겪기도 ",
       "date": "Mon, 12 Oct 2026 09:45:54 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224438710710?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ근육은 운동할 때가 아니라 쉴 때 만들어진다?",
-      "category": "건강/운동 TIP",
-      "summary": "“근육을 빨리 키우려면 매일 운동해야 하지 않을까요?” 헬스를 처음 시작하면 이런 생각을 하기 쉽습니다. 월요일 운동하고, 화요일도 운동하고, 수요일에는 더 세게 하고… 왠지 하루라도 쉬면 그동안 만든 근육이 사라질 것 같은 느낌이죠. 그런데 재미있는 사실이 있습니다.",
-      "date": "Sat, 10 Oct 2026 10:45:28 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224436943673?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224438710710?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
