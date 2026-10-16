@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-15T04:43:18.346Z",
+  "syncedAt": "2026-10-16T01:23:10.794Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 강아지 산책 가자는데 주인은 체력이 없다? 웃픈 현실과 해결 방법",
+      "category": "건강/운동 TIP",
+      "summary": "\"산책 갈까?\" 이 한마디에 세상에서 가장 행복한 표정으로 현관까지 달려가는 우리 집 댕댕이. 그런데 정작 보호자는 어떤가요? 신발을 신기도 전에 귀찮고, 집 밖으로 나서기도 전에 피곤합니다. 분명 아침부터 바쁘게 움직였는데 왜 우리 집 댕댕이는 멀쩡하고 저만 방전된 ",
+      "date": "Fri, 16 Oct 2026 09:08:23 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224443390414?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 식후 10분 걷기, 혈당부터 다이어트까지 어떤 효과가 있을까?",
       "category": "건강/운동 TIP",
       "summary": "밥을 먹고 나면 자연스럽게 소파에 앉거나 눕고 싶어집니다. 특히 점심을 먹은 뒤에는 졸음이 몰려오기도 하고, 몸이 무겁게 느껴지기도 하죠. 그런데 식사를 마친 다음 잠깐 움직이는 습관만으로도 우리 몸에 긍정적인 변화가 나타날 수 있다는 사실, 알고 계셨나요? 오늘은 식",
       "date": "Thu, 15 Oct 2026 09:23:39 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224442235389?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "하체 운동",
       "summary": "운동할 때 이런 말을 자주 듣습니다. “엉덩이를 뒤로 보내세요.” “허리가 아니라 고관절을 접으세요.” 하지만 처음 웨이트를 배우면 이 말이 쉽게 와닿지 않습니다. 상체를 숙였는데 허리만 불편하거나, 엉덩이를 뒤로 보낸다고 했는데 스쿼트처럼 앉아버리기도 하죠. 힙힌지는",
       "date": "Wed, 14 Oct 2026 19:16:56 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224441719376?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "아침에 눈을 뜨자마자 한 잔, 점심 식사 후 졸음을 쫓기 위해 한 잔! 바쁜 일상을 보내다 보면 어느새 두세 잔을 마시는 날도 있죠. 특히 직장인이나 학생들에게 아메리카노는 일상에서 빼놓기 어려운 음료가 되었습니다. 그런데 문득 이런 생각이 들지 않나요? \"이렇게 매일",
       "date": "Wed, 14 Oct 2026 09:00:13 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224441064775?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 I 추워지면 살이 더 잘 빠질까? 겨울 다이어트의 진실",
-      "category": "건강/운동 TIP",
-      "summary": "날씨가 쌀쌀해지기 시작하면 운동을 나가기 전부터 고민이 생깁니다. 두꺼운 옷을 챙겨야 하고 이불 밖으로 나오는 것도 쉽지 않죠. 그런데 한편으로는 이런 이야기를 들어보신 적 있으실 겁니다. “추울 때 몸이 열을 내니까 살도 더 쉽게 빠지는 거 아니야?” 실제로 추워지면",
-      "date": "Tue, 13 Oct 2026 09:38:14 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224439911536?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224441064775?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
