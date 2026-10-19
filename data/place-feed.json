@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-18T05:56:27.099Z",
+  "syncedAt": "2026-10-19T01:21:31.755Z",
   "news": [
+    {
+      "title": "중산동 헬스장  I 근육 회복, 쉬는 동안 성장한다는데 얼마나 쉬어야 할까?",
+      "category": "건강/운동 TIP",
+      "summary": "열심히 헬스장에서 땀을 흘렸는데 다음 날 쉬어도 괜찮을지 고민해 본 적 있으신가요? 하루라도 빠지면 지금까지 쌓아온 성과가 사라질 것 같고, 반대로 매일 하면 무리가 올 것 같기도 합니다. 특히 몸을 키우고 싶은 분들이라면 이런 고민이 더 클 수밖에 없는데요. 사실 근",
+      "date": "Mon, 19 Oct 2026 08:51:16 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224446189029?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장ㅣ근육 키우기와 체력 키우기는 뭐가 다를까?",
       "category": "건강/운동 TIP",
       "summary": "몸은 커졌는데 계단은 왜 아직 힘들까요? 무게는 전보다 잘 드는데 계단 몇 층만 올라가면 숨부터 턱 막히는 분. 살은 제법 빠졌는데도 퇴근하면 소파에 붙어서 아무것도 하기 싫은 분. 이럴 때 궁금해집니다. “나 열심히 하고 있는데, 왜 체력은 그대로일까?” 거울 속 변",
       "date": "Sun, 18 Oct 2026 12:33:06 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224445401859?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "헬스 가려고 운동화를 신었는데 배에서 꼬르륵. “먹고 가면 살이 덜 빠질까?” “빈속으로 가야 좋다던데?” 반대로 저녁을 먹고 나면 배가 묵직해서 고민이죠. 러닝머신은 타야겠는데 속이 따라주지 않는 느낌! 공복 운동과 식후 운동. 오늘은 어느 쪽이 무조건 좋다고 정하기",
       "date": "Sun, 18 Oct 2026 12:31:57 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224445401069?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "“운동해야 하는데…” 생각만 하다 보니 벌써 가을이 왔습니다. 여름에는 너무 더워서, 휴가 다녀와서는 피곤해서, 이것저것 미루다 보면 운동 시작 시기를 놓치기 쉬운데요. 그런데 의외로 가을은 운동을 새롭게 시작하기에 꽤 좋은 계절입니다. 단순히 날씨가 선선해서만은 아닙",
       "date": "Sat, 17 Oct 2026 16:15:51 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224444756772?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ근육이 지친 걸까, 뇌가 지친 걸까? 운동 중 피로의 진짜 원인",
-      "category": "건강/운동 TIP",
-      "summary": "운동을 하다 보면 분명 힘이 남아 있는 것 같은데 갑자기 무게가 무겁게 느껴지거나, 평소보다 반복 횟수가 줄어드는 날이 있습니다. 어제는 가볍게 들었던 무게가 오늘은 유난히 버겁고, 운동에 집중하기 어려울 때도 있죠. 이럴 때 우리는 보통 \"근육이 많이 지쳤나 보다.\"",
-      "date": "Sat, 17 Oct 2026 16:08:34 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224444751264?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224444756772?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
