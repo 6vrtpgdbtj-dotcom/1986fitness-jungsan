@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-22T04:52:02.602Z",
+  "syncedAt": "2026-10-22T10:14:09.478Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 등 운동하는데 팔만 아프다면? 와이드 풀다운 머신 사용법!",
+      "category": "상체 운동",
+      "summary": "남자든 여자든 우리는 운동을 하면서 이상적으로 생각하는 체형이 있습니다. 최근 핫했던 아이돌 '최산' 님처럼 우리는 누구나 V자 실루엣을 동경하는데요. 건강한 몸과 멋진 체형을 위해 열심히 당겼는데 정작 등에는 별다른 느낌이 없고, 팔만 먼저 지친 적 있으신가요? 등 ",
+      "date": "Thu, 22 Oct 2026 16:11:27 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224450255957?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장  I 헬스장에서 아무도 안 쓰는 기구 3개를 골라봤다",
       "category": "건강/운동 TIP",
       "summary": "운동하러 가면 이상하게 사람들이 몰리는 자리만 붐비죠. 러닝머신은 빈자리를 찾기 어렵고 인기 있는 웨이트 머신 앞에서는 순서를 기다리는 모습도 흔합니다. 그런데 조금만 주변을 둘러보면 유독 조용한 장비들이 눈에 들어옵니다. 생김새도 독특하고 사용법도 낯설어 한 번쯤 궁",
       "date": "Thu, 22 Oct 2026 08:51:38 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224449773666?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "처음에는 헬스장에 가는 것조차 큰 결심이 필요했던 순간이 있습니다. 퇴근 후 피곤한 몸을 이끌고 다시 밖으로 나가는 일도 쉽지 않고, 내일 하자는 생각이 들기도 하죠. 그런데 어느 순간부터 달라집니다. 하루라도 몸을 움직이지 않으면 괜히 찝찝한 기분이 들고, 쉬는 날에",
       "date": "Wed, 21 Oct 2026 09:15:46 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224448620137?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에 가기 전까지는 분명 피곤하고 귀찮았는데, 이어폰에서 좋아하는 곡이 흘러나오자 갑자기 의욕이 생긴 적 있으신가요? 아직 몸을 움직이지도 않았는데 괜히 에너지가 올라오는 듯하고, 평소보다 적극적으로 시작할 수 있을 것 같은 기분이 들기도 합니다. 그렇다면 이런 변",
       "date": "Tue, 20 Oct 2026 09:31:01 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224447408037?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장  I 근육 회복, 쉬는 동안 성장한다는데 얼마나 쉬어야 할까?",
-      "category": "건강/운동 TIP",
-      "summary": "열심히 헬스장에서 땀을 흘렸는데 다음 날 쉬어도 괜찮을지 고민해 본 적 있으신가요? 하루라도 빠지면 지금까지 쌓아온 성과가 사라질 것 같고, 반대로 매일 하면 무리가 올 것 같기도 합니다. 특히 몸을 키우고 싶은 분들이라면 이런 고민이 더 클 수밖에 없는데요. 사실 근",
-      "date": "Mon, 19 Oct 2026 08:51:16 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224446189029?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224447408037?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
