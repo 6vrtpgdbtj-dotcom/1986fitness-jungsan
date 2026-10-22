@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-10-21T04:52:19.866Z",
+  "syncedAt": "2026-10-22T04:52:02.602Z",
   "news": [
+    {
+      "title": "중산동 헬스장  I 헬스장에서 아무도 안 쓰는 기구 3개를 골라봤다",
+      "category": "건강/운동 TIP",
+      "summary": "운동하러 가면 이상하게 사람들이 몰리는 자리만 붐비죠. 러닝머신은 빈자리를 찾기 어렵고 인기 있는 웨이트 머신 앞에서는 순서를 기다리는 모습도 흔합니다. 그런데 조금만 주변을 둘러보면 유독 조용한 장비들이 눈에 들어옵니다. 생김새도 독특하고 사용법도 낯설어 한 번쯤 궁",
+      "date": "Thu, 22 Oct 2026 08:51:38 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224449773666?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 운동은 왜 시작보다 그만두기가 더 어려워질까?",
       "category": "건강/운동 TIP",
       "summary": "처음에는 헬스장에 가는 것조차 큰 결심이 필요했던 순간이 있습니다. 퇴근 후 피곤한 몸을 이끌고 다시 밖으로 나가는 일도 쉽지 않고, 내일 하자는 생각이 들기도 하죠. 그런데 어느 순간부터 달라집니다. 하루라도 몸을 움직이지 않으면 괜히 찝찝한 기분이 들고, 쉬는 날에",
       "date": "Wed, 21 Oct 2026 09:15:46 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224448620137?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에 가기 전까지는 분명 피곤하고 귀찮았는데, 이어폰에서 좋아하는 곡이 흘러나오자 갑자기 의욕이 생긴 적 있으신가요? 아직 몸을 움직이지도 않았는데 괜히 에너지가 올라오는 듯하고, 평소보다 적극적으로 시작할 수 있을 것 같은 기분이 들기도 합니다. 그렇다면 이런 변",
       "date": "Tue, 20 Oct 2026 09:31:01 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224447408037?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "열심히 헬스장에서 땀을 흘렸는데 다음 날 쉬어도 괜찮을지 고민해 본 적 있으신가요? 하루라도 빠지면 지금까지 쌓아온 성과가 사라질 것 같고, 반대로 매일 하면 무리가 올 것 같기도 합니다. 특히 몸을 키우고 싶은 분들이라면 이런 고민이 더 클 수밖에 없는데요. 사실 근",
       "date": "Mon, 19 Oct 2026 08:51:16 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224446189029?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ근육 키우기와 체력 키우기는 뭐가 다를까?",
-      "category": "건강/운동 TIP",
-      "summary": "몸은 커졌는데 계단은 왜 아직 힘들까요? 무게는 전보다 잘 드는데 계단 몇 층만 올라가면 숨부터 턱 막히는 분. 살은 제법 빠졌는데도 퇴근하면 소파에 붙어서 아무것도 하기 싫은 분. 이럴 때 궁금해집니다. “나 열심히 하고 있는데, 왜 체력은 그대로일까?” 거울 속 변",
-      "date": "Sun, 18 Oct 2026 12:33:06 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224445401859?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224446189029?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
