@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-11-02T06:10:33.755Z",
+  "syncedAt": "2026-11-03T06:51:21.683Z",
   "news": [
+    {
+      "title": "중산동 헬스장  I 운동 중 물 마시는 타이밍, 아무 때나 마시면 손해일까?",
+      "category": "건강/운동 TIP",
+      "summary": "헬스장에서 땀을 흘리다 보면 자연스럽게 물병을 찾게 됩니다. 그런데 여기서 궁금한 점! 목이 마를 때만 마시면 될까요? 아니면 정해진 간격이 있을까요? 어떤 사람은 세트마다 한 모금씩, 또 다른 사람은 끝날 때까지 거의 마시지 않기도 합니다. 사실 운동 중 물 마시는 ",
+      "date": "Tue, 03 Nov 2026 09:03:04 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224463103949?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 원판은 왜 20kg과 45LB로 나뉠까? 무게에 숨겨진 역사",
       "category": "건강/운동 TIP",
       "summary": "헬스장에서 바벨 운동을 하다 보면 조금 특이한 숫자를 발견하게 됩니다 . 어떤 중량판에는 20kg이 적혀 있고, 다른 제품에는 45LB가 표시되어 있죠. 크기와 모양도 비슷해서 같은 무게라고 생각하기 쉽습니다. 그런데 정말 동일한 제품일까요? 사실 헬스장 원판에 적힌 ",
       "date": "Mon, 02 Nov 2026 09:14:37 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224461883925?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "중학생 땐 아직 어리다고, 스무 살엔 대학 가고 나서. 서른엔 회사 적응부터 하고, 마흔엔 애가 조금 크면. 그러다 어느 날 거울 앞에서 이런 생각이 들기도 하죠. “이제 가기엔 늦었나…?” 잠깐만요. 그러면 대체 언제쯤 가야 하는 걸까요? 우리한테만 안 알려준 헬스 ",
       "date": "Sun, 01 Nov 2026 11:00:08 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224460919833?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "사진은 예쁘게 찍었는데 다음 날 계단 앞에서 멈칫. “우리 집이 원래 이렇게 높았나?” 단풍 보러 가볍게 나섰다가 허벅지는 후들거리고, 발가락까지 아팠던 경험, 한 번쯤 있으시죠? 풍경에 마음이 앞서다 보면 내려올 체력은 잊기 쉽습니다. 정상에서 찍는 인증샷보다 중요한",
       "date": "Sun, 01 Nov 2026 10:59:26 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224460919316?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ운동을 하면 오히려 식욕이 폭발하는 이유",
-      "category": "건강/운동 TIP",
-      "summary": "안녕하세요! 1986피트니스 중산점입니다. 다이어트를 결심하고 열심히 운동했는데 집에 돌아오자마자 냉장고부터 열어본 적 다들 한 번쯤 있으시죠? 운동하기 전에는 별생각이 없었는데 끝나고 나니까 갑자기 치킨도 먹고 싶고, 라면도 생각나고, 달달한 디저트까지! 분명 살을 ",
-      "date": "Sat, 31 Oct 2026 16:07:25 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224460195555?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224460919316?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
