@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-11-03T06:51:21.683Z",
+  "syncedAt": "2026-11-04T01:24:45.277Z",
   "news": [
+    {
+      "title": "중산동 헬스장  I 11월 운동 시작하면 연말까지 몸이 달라질까? 8주 변화의 진실",
+      "category": "건강/운동 TIP",
+      "summary": "벌써 11월입니다. 새해에 세웠던 다짐은 흐릿해지고 어느새 올해도 두 달이 채 남지 않았죠. 이맘때쯤이면 이런 생각이 듭니다. \"지금 시작해도 효과가 있을까?\" \"차라리 내년 1월부터 할까?\" \"두 달 만에 눈에 띄게 달라질 수 있을까?\" 그런데 여기서 한 가지 흥미로",
+      "date": "Wed, 04 Nov 2026 09:15:22 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224464336130?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장  I 운동 중 물 마시는 타이밍, 아무 때나 마시면 손해일까?",
       "category": "건강/운동 TIP",
       "summary": "헬스장에서 땀을 흘리다 보면 자연스럽게 물병을 찾게 됩니다. 그런데 여기서 궁금한 점! 목이 마를 때만 마시면 될까요? 아니면 정해진 간격이 있을까요? 어떤 사람은 세트마다 한 모금씩, 또 다른 사람은 끝날 때까지 거의 마시지 않기도 합니다. 사실 운동 중 물 마시는 ",
       "date": "Tue, 03 Nov 2026 09:03:04 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224463103949?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에서 바벨 운동을 하다 보면 조금 특이한 숫자를 발견하게 됩니다 . 어떤 중량판에는 20kg이 적혀 있고, 다른 제품에는 45LB가 표시되어 있죠. 크기와 모양도 비슷해서 같은 무게라고 생각하기 쉽습니다. 그런데 정말 동일한 제품일까요? 사실 헬스장 원판에 적힌 ",
       "date": "Mon, 02 Nov 2026 09:14:37 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224461883925?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "중학생 땐 아직 어리다고, 스무 살엔 대학 가고 나서. 서른엔 회사 적응부터 하고, 마흔엔 애가 조금 크면. 그러다 어느 날 거울 앞에서 이런 생각이 들기도 하죠. “이제 가기엔 늦었나…?” 잠깐만요. 그러면 대체 언제쯤 가야 하는 걸까요? 우리한테만 안 알려준 헬스 ",
       "date": "Sun, 01 Nov 2026 11:00:08 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224460919833?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장｜가을 단풍 등산, 준비물 & 안전 꿀팁",
-      "category": "건강/운동 TIP",
-      "summary": "사진은 예쁘게 찍었는데 다음 날 계단 앞에서 멈칫. “우리 집이 원래 이렇게 높았나?” 단풍 보러 가볍게 나섰다가 허벅지는 후들거리고, 발가락까지 아팠던 경험, 한 번쯤 있으시죠? 풍경에 마음이 앞서다 보면 내려올 체력은 잊기 쉽습니다. 정상에서 찍는 인증샷보다 중요한",
-      "date": "Sun, 01 Nov 2026 10:59:26 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224460919316?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224460919833?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
