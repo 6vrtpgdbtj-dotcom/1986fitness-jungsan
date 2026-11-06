@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-11-05T06:51:09.128Z",
+  "syncedAt": "2026-11-06T02:28:54.956Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 운동을 며칠 쉬면 근육이 빠질까? 기간별 쉬었을 때 달라지는 몸의 변화",
+      "category": "건강/운동 TIP",
+      "summary": "열심히 헬스장을 다니다가 갑자기 일정이 바빠지거나 몸이 피곤해서 쉬어본 적 있으신가요? 하루 이틀은 괜찮다가도 쉬는 기간이 길어지기 시작하면 괜히 불안한 마음이 들곤 합니다. \"그동안 키운 게 다 사라지는 건 아닐까?\" \"일주일이나 쉬었는데 괜찮을까?\" \"다시 처음부터",
+      "date": "Fri, 06 Nov 2026 09:24:34 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224466832541?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 퇴근하면 다리가 퉁퉁? 오래 서 있는 직장인 다리 피로 관리법 5가지",
       "category": "건강/운동 TIP",
       "summary": "하루 종일 서서 일하다 보면 퇴근할 때쯤 유독 몸이 무겁고 발바닥까지 뻐근한 날이 있습니다. 아침에는 멀쩡했던 신발이 저녁에는 꽉 끼는 것 같고, 종아리가 단단하게 느껴지기도 하죠. 특히 판매직, 서비스직, 요식업처럼 서 있는 시간이 긴 직업이라면 이런 불편함이 익숙할",
       "date": "Thu, 05 Nov 2026 09:26:51 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224465587705?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "벌써 11월입니다. 새해에 세웠던 다짐은 흐릿해지고 어느새 올해도 두 달이 채 남지 않았죠. 이맘때쯤이면 이런 생각이 듭니다. \"지금 시작해도 효과가 있을까?\" \"차라리 내년 1월부터 할까?\" \"두 달 만에 눈에 띄게 달라질 수 있을까?\" 그런데 여기서 한 가지 흥미로",
       "date": "Wed, 04 Nov 2026 09:15:22 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224464336130?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에서 땀을 흘리다 보면 자연스럽게 물병을 찾게 됩니다. 그런데 여기서 궁금한 점! 목이 마를 때만 마시면 될까요? 아니면 정해진 간격이 있을까요? 어떤 사람은 세트마다 한 모금씩, 또 다른 사람은 끝날 때까지 거의 마시지 않기도 합니다. 사실 운동 중 물 마시는 ",
       "date": "Tue, 03 Nov 2026 09:03:04 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224463103949?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 I 원판은 왜 20kg과 45LB로 나뉠까? 무게에 숨겨진 역사",
-      "category": "건강/운동 TIP",
-      "summary": "헬스장에서 바벨 운동을 하다 보면 조금 특이한 숫자를 발견하게 됩니다 . 어떤 중량판에는 20kg이 적혀 있고, 다른 제품에는 45LB가 표시되어 있죠. 크기와 모양도 비슷해서 같은 무게라고 생각하기 쉽습니다. 그런데 정말 동일한 제품일까요? 사실 헬스장 원판에 적힌 ",
-      "date": "Mon, 02 Nov 2026 09:14:37 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224461883925?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224463103949?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
