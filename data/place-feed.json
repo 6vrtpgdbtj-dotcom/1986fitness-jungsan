@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-11-09T17:32:48.552Z",
+  "syncedAt": "2026-11-10T01:34:06.953Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 체력이 좋아지면 일상에서 가장 먼저 달라지는 7가지 순간",
+      "category": "건강/운동 TIP",
+      "summary": "계단 몇 층만 올라가도 숨이 차고, 퇴근 후에는 소파부터 찾게 되나요? 충분히 잤는데도 아침부터 피곤하고 별다른 활동을 하지 않았는데도 하루가 유난히 길게 느껴질 때가 있죠. 많은 분이 신체 변화를 확인할 때 몸무게나 거울부터 살펴보곤 합니다. 하지만 체력이 좋아지면 ",
+      "date": "Tue, 10 Nov 2026 09:24:50 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224471249844?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 올해가 가기 전 시작해요! 4주년 등록 혜택",
       "category": "공지사항/이벤트",
       "summary": "날씨가 쌀쌀해지면 바깥 활동이 줄고, 몸을 움직이는 시간도 짧아지기 쉽죠. “올해가 가기 전에 시작해야 하는데…” 생각만 하고 있었다면, 이번에는 나에게 맞는 이용권부터 살펴보세요. 1986피트니스 중산점이 오픈 4주년을 맞아 준비한 감사제부터 수험생·학생을 위한 특별",
       "date": "Mon, 09 Nov 2026 21:15:13 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224470787536?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "날씨가 추워지면 헬스장에 도착해도 몸이 쉽게 풀리지 않는 느낌이 들죠. 움직이기 전부터 뻣뻣할 때도 있고요. 특히 겨울에는 빨리 몸을 따뜻하게 만들고 싶은 마음에 준비 과정 없이 곧바로 무거운 기구를 잡기도 합니다. 그런데 이런 습관은 생각보다 주의할 필요가 있습니다.",
       "date": "Mon, 09 Nov 2026 09:20:39 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224469919632?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에서 운동하다가 이런 생각 해보셨나요? \"지난주에 몇 kg 들었더라?\" . \"이거 10개 했었나?\" . \"저번보다 잘하고 있는 건가?\" 분명 꾸준히 나오는데 지난번에 뭘 했는지 정확하게 기억이 안 납니다. 반대로 어떤 분들은 세트가 끝날 때마다 휴대폰을 꺼내서 무",
       "date": "Sat, 07 Nov 2026 15:08:07 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224468313420?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ엉덩이 운동, 열심히 하는데 왜 모양은 그대로일까?",
-      "category": "건강/운동 TIP",
-      "summary": "안녕하세요! 1986피트니스 중산점입니다 :) 여러분은 힙업을 위해 어떤 운동을 하시나요? 스쿼트? 힙쓰러스트? 아니면 힙 어브덕션? 그런데 열심히 해도 원하는 모양이 나오지 않아 고민한 적 있으신가요? 사실 우리가 흔히 말하는 엉덩이 근육은 하나로 이루어져 있지 않아",
-      "date": "Sat, 07 Nov 2026 15:07:18 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224468312776?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224468313420?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
