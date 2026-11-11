@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-11-10T09:54:05.620Z",
+  "syncedAt": "2026-11-11T06:28:07.448Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 휴대폰 보면서 고개 숙이는 습관, 목과 어깨는 괜찮을까?",
+      "category": "건강/운동 TIP",
+      "summary": "아침에 눈을 뜨자마자 화면을 확인하고 출퇴근길에는 메시지와 영상을 보고, 잠들기 전까지 스마트폰을 사용하곤 합니다. 이제는 우리 생활에서 없어서는 안 될 필수품이 되었죠. 그런데 혹시 지금 이 글을 읽으면서도 고개를 아래로 숙이고 있지는 않으신가요? 평소에는 별다른 불",
+      "date": "Wed, 11 Nov 2026 09:24:16 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224472598703?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "일산 헬스장 찾다가 발견한 300평 운동 공간! 1986피트니스 중산점 시설 둘러보기",
       "category": "공지사항/이벤트",
       "summary": "헬스장을 알아볼 때 가장 먼저 확인하는 건 어떤 부분이신가요? 가격도 중요하지만 막상 운동을 시작하면 시설과 환경이 정말 중요해지더라고요. 기구가 너무 부족하거나 공간이 좁으면 꾸준히 다니기가 쉽지 않기 때문인데요. 오늘은 일산 헬스장을 알아보시는 분들을 위해 넓은 공",
       "date": "Tue, 10 Nov 2026 16:09:22 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224471784067?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "계단 몇 층만 올라가도 숨이 차고, 퇴근 후에는 소파부터 찾게 되나요? 충분히 잤는데도 아침부터 피곤하고 별다른 활동을 하지 않았는데도 하루가 유난히 길게 느껴질 때가 있죠. 많은 분이 신체 변화를 확인할 때 몸무게나 거울부터 살펴보곤 합니다. 하지만 체력이 좋아지면 ",
       "date": "Tue, 10 Nov 2026 09:24:50 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224471249844?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "공지사항/이벤트",
       "summary": "날씨가 쌀쌀해지면 바깥 활동이 줄고, 몸을 움직이는 시간도 짧아지기 쉽죠. “올해가 가기 전에 시작해야 하는데…” 생각만 하고 있었다면, 이번에는 나에게 맞는 이용권부터 살펴보세요. 1986피트니스 중산점이 오픈 4주년을 맞아 준비한 감사제부터 수험생·학생을 위한 특별",
       "date": "Mon, 09 Nov 2026 21:15:13 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224470787536?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장 I 겨울철 운동 전 스트레칭 꼭 해야 하는 이유",
-      "category": "건강/운동 TIP",
-      "summary": "날씨가 추워지면 헬스장에 도착해도 몸이 쉽게 풀리지 않는 느낌이 들죠. 움직이기 전부터 뻣뻣할 때도 있고요. 특히 겨울에는 빨리 몸을 따뜻하게 만들고 싶은 마음에 준비 과정 없이 곧바로 무거운 기구를 잡기도 합니다. 그런데 이런 습관은 생각보다 주의할 필요가 있습니다.",
-      "date": "Mon, 09 Nov 2026 09:20:39 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224469919632?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224470787536?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
