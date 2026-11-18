@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-11-17T04:30:20.926Z",
+  "syncedAt": "2026-11-18T04:25:10.976Z",
   "news": [
+    {
+      "title": "중산동 헬스장 I 공복 운동이 누구에게나 좋은 것은 아닌 이유, 다이어트 전 꼭 알아야 할 사실",
+      "category": "건강/운동 TIP",
+      "summary": "아침밥까지 거르고 운동했는데 왜 체중계 숫자는 그대로일까요? 분명 빈속에 움직이면 지방이 더 빨리 빠진다고 들었는데, 생각보다 변화가 없어 답답했던 경험이 있으실 겁니다. 특히 체중 감량을 시작하면 한 번쯤 고민하게 되는 방법이 바로 공복 운동입니다. 그런데 여기서 중",
+      "date": "Wed, 18 Nov 2026 09:08:03 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224481552175?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장 I 조명 하나로 운동 만족도가 달라질까?",
       "category": "건강/운동 TIP",
       "summary": "똑같은 무게인데 어떤 날은 유난히 더 무겁게 느껴지죠. 분명 같은 기구에 같은 동작을 하는데 집중도 잘 안 됩니다. 혹시 이런 경험을 해보신 적 있나요? 그런데 여기서 재미있는 사실 하나! 내 컨디션뿐 아니라 주변의 빛 환경도 영향을 줄 수 있어요. 오늘은 생각보다 많",
       "date": "Tue, 17 Nov 2026 08:59:05 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224480104930?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "“겨울에는 땀이 잘 안 나서 운동한 느낌이 없어요.” . . . “땀복을 입고 유산소를 하면 살이 더 잘 빠지지 않을까요?” 운동 후 땀에 젖은 옷을 보면 뿌듯하죠. 체중까지 줄어 있으면 다이어트가 잘되고 있다는 생각도 듭니다. 하지만 땀을 많이 흘린 것과 체지방이 많",
       "date": "Sun, 15 Nov 2026 16:29:29 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224477964043?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "“가슴 운동하는 날에는 왜 삼두도 하나요?” “등이랑 이두는 꼭 같이 해야 하나요?” 헬스장에서 운동을 배우다 보면 가슴·삼두, 등·이두처럼 부위를 묶어 운동하는 경우가 많습니다. 이 조합에는 이유가 있습니다. 우리 몸은 운동할 때 근육 하나만 따로 사용하는 것이 아니",
       "date": "Sun, 15 Nov 2026 16:29:06 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224477963679?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장｜다이어트 방해 음식, 이렇게 바꿔보세요",
-      "category": "건강/운동 TIP",
-      "summary": "저녁까지 잘 버텼는데 갑자기 떠오르는 떡볶이. 분명 배는 부른 것 같은데 초콜릿은 들어갈 것 같죠? 이럴 때 오이를 꺼내면 괜히 더 서러워집니다. 내가 원한 건 그 맛인데 입안에서는 풀 향만 나니까요. 체중 관리 중 식욕이 올라오면 무조건 참아야 할까요? 오늘은 당기는",
-      "date": "Sun, 15 Nov 2026 09:43:22 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224477612958?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224477963679?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
