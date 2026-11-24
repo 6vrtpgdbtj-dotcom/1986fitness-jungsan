@@ -1,14 +1,22 @@
 {
   "placeId": "1052772360",
   "source": "https://rss.blog.naver.com/1986fitness3.xml",
-  "syncedAt": "2026-11-22T06:53:22.345Z",
+  "syncedAt": "2026-11-24T00:54:19.213Z",
   "news": [
+    {
+      "title": "중산동 헬스장  I 운동 쉬는 시간, 초보와 고수는 쉬는 방법부터 다르다",
+      "category": "건강/운동 TIP",
+      "summary": "헬스장에서 가만히 주변을 둘러보면 재미있는 광경을 발견할 수 있습니다. 누군가는 숨이 차기도 전에 다시 덤벨을 들어 올리고, 누군가는 벤치에 앉아 하염없이 스마트폰을 바라봅니다. 반면 몸이 좋은 사람 중에는 가만히 앉아 호흡을 정리하거나 기록을 확인하는 분들도 많습니다",
+      "date": "Tue, 24 Nov 2026 09:17:32 +0900",
+      "image": "assets/live/naver-1.jpg",
+      "url": "https://blog.naver.com/1986fitness3/224489495127?fromRss=true&trackingCode=rss"
+    },
     {
       "title": "중산동 헬스장ㅣ하려던 기구가 꽉 찼다면?운동 순서 바꾸는 요령",
       "category": "건강/운동 TIP",
       "summary": "퇴근하고 겨우 도착했는데, 쓰려던 자리마다 사람이 있다면? 러닝머신에서 몸을 풀면서 빈자리만 살피게 되시죠. 분명 하체 하러 왔는데 걷기만 하다 끝나는 날도 있고요. “오늘은 그냥 집에 갈까?” 잠깐, 가방 내려놓으세요. 계획표를 조금만 바꾸면 알차게 마치고 갈 수 있",
       "date": "Sun, 22 Nov 2026 10:03:08 +0900",
-      "image": "assets/live/naver-1.jpg",
+      "image": "assets/live/naver-2.jpg",
       "url": "https://blog.naver.com/1986fitness3/224486786581?fromRss=true&trackingCode=rss"
     },
     {
@@ -16,7 +24,7 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에 처음 가거나, 꾸준히 다니는 분들이라면 한 번쯤 이런 생각을 해보셨을 거예요. “혹시 내가 다른 사람에게 불편을 주고 있는 건 아닐까?” “기구를 쓰고 싶은데, 어떻게 말을 꺼내야 하지?” 같은 고민도 생기죠. 운동은 개인의 건강을 위한 일이지만, 헬스장은 여",
       "date": "Sun, 22 Nov 2026 10:02:20 +0900",
-      "image": "assets/live/naver-2.jpg",
+      "image": "assets/live/naver-3.jpg",
       "url": "https://blog.naver.com/1986fitness3/224486785895?fromRss=true&trackingCode=rss"
     },
     {
@@ -24,16 +32,8 @@
       "category": "건강/운동 TIP",
       "summary": "헬스장에 처음 등록한 날. 운동화도 챙겼고, 이어폰도 충전했고, 이번에는 꾸준히 해보겠다는 마음도 준비했습니다. 그런데 막상 운동 공간에 들어서자 발걸음이 느려집니다. 그렇게 걷다가 주변을 살피고, 다시 걷다가 휴대폰을 확인합니다. 오늘도 다리보다 눈이 더 바빴던 적 ",
       "date": "Sat, 21 Nov 2026 15:54:33 +0900",
-      "image": "assets/live/naver-3.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224486054263?fromRss=true&trackingCode=rss"
-    },
-    {
-      "title": "중산동 헬스장ㅣ헬스장에 왔는데 집에 가고 싶다 딱 15분만 한다면?",
-      "category": "건강/운동 TIP",
-      "summary": "퇴근하고 겨우 도착한 헬스장. 운동복도 갈아입었는데 이상하게 의욕이 없습니다. 평소 들던 덤벨은 보기만 해도 무겁고, 러닝머신 위에서는 벌써 지루할 것 같죠... 머릿속에 한마디가 떠오릅니다. “오늘은 그냥 집에 갈까?” 그런 날에는 목표를 바꿔보세요. 오늘의 목표는 ",
-      "date": "Sat, 21 Nov 2026 15:54:03 +0900",
       "image": "assets/live/naver-4.jpg",
-      "url": "https://blog.naver.com/1986fitness3/224486053803?fromRss=true&trackingCode=rss"
+      "url": "https://blog.naver.com/1986fitness3/224486054263?fromRss=true&trackingCode=rss"
     }
   ],
   "photos": []
